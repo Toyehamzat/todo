@@ -78,8 +78,8 @@ export default function AddTodo() {
         name="title"
         value={data.title}
         onChange={handleChange}
-        className="text-2xl p-1 rounded-lg flex-grow w-full"
-        placeholder="New Todo"
+        className="text-2xl p-2 rounded-lg flex-grow w-full"
+        placeholder="Add Todo"
         autoFocus
       />
 

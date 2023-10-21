@@ -15,9 +15,9 @@ export default function Navbar() {
 
         <Link
           href="/add"
-          className="text-2xl text-white/90 no-underline hover:text-white"
+          className="text-2xl text-white/60 no-underline hover:text-white"
         >
-          Add
+          CHORES
         </Link>
       </div>
     </nav>

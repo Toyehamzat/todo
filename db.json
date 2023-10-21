@@ -21,12 +21,14 @@
     {
       "userId": 1,
       "title": "i need to do you",
-      "id": 6
+      "id": 6,
+      "completed": false
     },
     {
       "userId": 1,
       "title": "testing",
-      "id": 7
+      "id": 7,
+      "completed": false
     },
     {
       "userId": 1,
